@@ -59,7 +59,7 @@ Top Data Analyst Jobs in 2023 – Overview:
 - **Diverse Roles**: Job titles vary widely, from Data Analyst to Director of Analytics, reflecting the different specializations and career paths within data analytics.
 
 
-![Top Paying Roles'](assets\1_top_paying_roles.png)
+![Top Paying Roles'](assets\1_top_paying_roles_.png)
 *Bar graph visualizing the salary for the top 10 salaries for data analysts*
 
 ### 2. Skills for Top Paying Jobs
@@ -99,7 +99,7 @@ Here's the breakdown of the most demanded skills for the top 10 highest paying d
 - Python follows closely with a bold count of 7.
 - Tableau is also highly sought after, with a bold count of 6. Other skills like R, Snowflake, Pandas, and Excel show varying degrees of demand.
 
-![Top skills](assets\2_top_paying_roles_skills.png)
+![Top skills](assets\2_top_paying_roles_skills_.png)
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts;*
 
 ### 3. In-Demand Skills for Data Analysts
